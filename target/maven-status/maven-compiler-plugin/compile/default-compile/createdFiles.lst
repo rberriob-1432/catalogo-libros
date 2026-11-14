@@ -1,0 +1,6 @@
+repository/CatalogoRepositoryArray.class
+presentation/Consola.class
+Main.class
+service/CatalogoService.class
+model/Libro.class
+repository/CatalogoRepository.class
